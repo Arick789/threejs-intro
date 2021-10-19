@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+canvas {
+  display: block;
+}
+h1 {
+  position: absolute;
+  padding-left: 10vh;
+}
+button {
+  position: absolute;
+  float: right;
+  right: 0;
+  margin: 5vh;
+  font-size: large;
+}
